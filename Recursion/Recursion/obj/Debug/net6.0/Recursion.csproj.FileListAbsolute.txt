@@ -1,0 +1,15 @@
+/Users/viktornazilin/Projects/Recursion/Recursion/bin/Debug/net6.0/Recursion
+/Users/viktornazilin/Projects/Recursion/Recursion/bin/Debug/net6.0/Recursion.deps.json
+/Users/viktornazilin/Projects/Recursion/Recursion/bin/Debug/net6.0/Recursion.runtimeconfig.json
+/Users/viktornazilin/Projects/Recursion/Recursion/bin/Debug/net6.0/Recursion.dll
+/Users/viktornazilin/Projects/Recursion/Recursion/bin/Debug/net6.0/Recursion.pdb
+/Users/viktornazilin/Projects/Recursion/Recursion/obj/Debug/net6.0/Recursion.csproj.AssemblyReference.cache
+/Users/viktornazilin/Projects/Recursion/Recursion/obj/Debug/net6.0/Recursion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktornazilin/Projects/Recursion/Recursion/obj/Debug/net6.0/Recursion.AssemblyInfoInputs.cache
+/Users/viktornazilin/Projects/Recursion/Recursion/obj/Debug/net6.0/Recursion.AssemblyInfo.cs
+/Users/viktornazilin/Projects/Recursion/Recursion/obj/Debug/net6.0/Recursion.csproj.CoreCompileInputs.cache
+/Users/viktornazilin/Projects/Recursion/Recursion/obj/Debug/net6.0/Recursion.dll
+/Users/viktornazilin/Projects/Recursion/Recursion/obj/Debug/net6.0/refint/Recursion.dll
+/Users/viktornazilin/Projects/Recursion/Recursion/obj/Debug/net6.0/Recursion.pdb
+/Users/viktornazilin/Projects/Recursion/Recursion/obj/Debug/net6.0/Recursion.genruntimeconfig.cache
+/Users/viktornazilin/Projects/Recursion/Recursion/obj/Debug/net6.0/ref/Recursion.dll
